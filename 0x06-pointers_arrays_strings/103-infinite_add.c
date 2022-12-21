@@ -32,7 +32,7 @@ char *infinite_add(char *n1, char *n2, char *r, int size_r)
 		if (op >= 10)
 			add = op / 10;
 		else
-			add a = 0;
+			add = 0;
 		if (op > 0)
 		*(r + bg) = (op % 10) + 48;
 		else

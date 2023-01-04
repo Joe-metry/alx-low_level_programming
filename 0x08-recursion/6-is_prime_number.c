@@ -46,5 +46,5 @@ int is_prime_number(int num)
 		return (1);
 	}
 
-	return (evalyate_num(num, iterator));
+	return (evaluate_num(num, iterator));
 }

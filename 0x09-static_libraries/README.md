@@ -1,1 +1,0 @@
-My Static Library Readme

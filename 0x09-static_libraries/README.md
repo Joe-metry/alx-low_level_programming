@@ -1,1 +1,1 @@
-My static library readme
+My static LIbrary Readme.md
